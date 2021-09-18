@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![wave](https://user-images.githubusercontent.com/6224809/133898253-42e7db82-a2a3-4129-80bd-37cdc58a15c5.gif)
+
 
 <!--
 **lucianasato/lucianasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
