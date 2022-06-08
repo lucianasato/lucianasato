@@ -1,4 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/6224809/133898253-42e7db82-a2a3-4129-80bd-37cdc58a15c5.gif" width="25px">
+### Hi there!
 
 I'm software developer 👩‍💻
 
